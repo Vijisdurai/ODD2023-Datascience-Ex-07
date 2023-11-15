@@ -18,12 +18,6 @@ Save the data to the file
 
 # CODE AND OUPUT:
 ```
-NAME : Abishek XavierA
-REG NO : 212222230004
-```
-
-
-```
 import pandas as pd
 import numpy as np
 import matplotlib
